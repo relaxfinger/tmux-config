@@ -1,0 +1,4 @@
+pane	local	0	1	:*	0	:/Users/relax	1	vim	:/usr/local/bin/vim .tmux.conf
+pane	local	0	1	:*	1	:/Users/relax/.tmux/plugins	0	zsh	:
+window	local	0	:zsh	1	:*	ac54,272x70,0,0{136x70,0,0,0,135x70,137,0,1}	:
+state	local	
